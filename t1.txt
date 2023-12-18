@@ -1,0 +1,4 @@
+simple text
+more text
+and still more text to address Issue #1
+this line added by HikeTheRed
